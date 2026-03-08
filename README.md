@@ -81,11 +81,27 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/yousefosalemofficial/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRFACF7XkRhGXaceYPmbd1g%3D%3D)
-- Facebook: (https://www.facebook.com/share/18AaTBEzXB/)
-- Instagram: (https://www.instagram.com/yousef.o.salem.official?igsh=MWFuMnY1am4xaDdudQ==)
-- Email: (إyousef.osama.salem@gmail.com)
-- WhatsApp : (+201221151948)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousefosalemofficial/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRFACF7XkRhGXaceYPmbd1g%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/share/18AaTBEzXB/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/yousef.o.salem.official?igsh=MWFuMnY1am4xaDdudQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="mailto:yousef.osama.salem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/201221151948" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p> WhatsApp : (+201221151948)
 
 ---
 
