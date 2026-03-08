@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yousef+O.+Salem;Cloud+Security+Enthusiast;Computer+Science+Student;Future+Security+Engineer&center=true&size=30">
 </h1>
 
-<h3 align="center">💻 Computer Science Student | Cloud Security Specialist | Future Cyber Defender ☁️🔐 | Body Builder 🦾🧠</h3>
+<h3 align="center">💻 Computer Science Student | Cloud Security Specialist | Future Cyber Defender ☁️🔐</h3>
 
 ---
 
