@@ -7,6 +7,30 @@
 <h3 align="center">💻 Computer Science Student | Cloud Security Specialist | Future Cyber Defender ☁️🔐</h3>
 
 ---
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousefosalemofficial/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRFACF7XkRhGXaceYPmbd1g%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/share/18AaTBEzXB/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/yousef.o.salem.official?igsh=MWFuMnY1am4xaDdudQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="mailto:yousef.osama.salem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/201221151948" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+---
 
 ### 👨‍🎓 About Me
 
@@ -76,32 +100,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yousefosalemofficial/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRFACF7XkRhGXaceYPmbd1g%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://www.facebook.com/share/18AaTBEzXB/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  
-  <a href="https://www.instagram.com/yousef.o.salem.official?igsh=MWFuMnY1am4xaDdudQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="mailto:yousef.osama.salem@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://wa.me/201221151948" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p> WhatsApp : (+201221151948)
 
 ---
 
