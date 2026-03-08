@@ -9,7 +9,7 @@
 ---
 ### 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/yousefosalemofficial/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRFACF7XkRhGXaceYPmbd1g%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
