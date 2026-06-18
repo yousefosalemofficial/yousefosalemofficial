@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yousef-salem.yousef-salem">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yousef+O.+Salem;Cloud+Security+Enthusiast;Computer+Science+Student;Future+Security+Engineer&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yousef+Osama;Cloud+Security+Enthusiast;Computer+Science+Student;Future+Security+Engineer&center=true&size=30">
 </h1>
 
 <h3 align="center">🖥️ Computer Science Student | Cloud Security ☁️🔏  | SOC & Blue Team Enthusiast | AWS & Azure | Building Secure Cloud Architectures | Threat Detection & Incident Response | Front-End 🎨🖥️ </h3>
