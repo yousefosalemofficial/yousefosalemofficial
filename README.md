@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yousef-salem.yousef-salem">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yousef+Osama;Cloud+Security+Enthusiast;Computer+Science+Student;Future+Security+Engineer&center=true&size=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yousef+O.+Soliman;Data+Science+Engineer&center=true&size=30">
 </h1>
 
-<h3 align="center">🖥️ Computer Science Student | Cloud Security ☁️🔏  | SOC & Blue Team Enthusiast | AWS & Azure | Building Secure Cloud Architectures | Threat Detection & Incident Response | Front-End 🎨🖥️ </h3>
+<h3 align="center">📊 Data Science Engineer | Computer Science Student 🎓 | Machine Learning & AI Enthusiast 🤖 | Python | SQL | Data Analysis | Data Visualization | Building Data-Driven Solutions</h3>
 
 ---
 ### 📫 Connect With Me
@@ -16,10 +16,6 @@
   
   <a href="https://www.facebook.com/share/18AaTBEzXB/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  
-  <a href="https://www.instagram.com/yousef.o.salem.official?igsh=MWFuMnY1am4xaDdudQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
   <a href="mailto:yousef.osama.salem@gmail.com">
@@ -34,38 +30,57 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 4th Year Student — Faculty of Computers & Information Technology  
-- ☁️ Specialization: **Cloud Security**
-- 🔐 Passionate about securing systems, networks & cloud infrastructure  
-- 🚀 Currently preparing for my Graduation Project  
-- 💡 Strong believer in continuous learning & hands-on building  
+🎓 4th Year Student — Faculty of Computers & Information Technology
+📊 Aspiring Data Science Engineer
+🤖 Passionate about machine learning, data analytics & AI-driven solutions
+🚀 Currently working on my Graduation Project
+💡 Always learning, building, and turning data into smart decisions
 
 ---
 
 ### 🛠️ Technical Skills
 
-#### 👨‍💻 Programming Languages
+#### 👩‍💻 Programming Languages
+
 <p>
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP">
 </p>
 
 #### 🌐 Web & Networking
+
 <p>
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows">
+</p>
+
+#### 📊 Data Science & Databases
+
+<p>
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
 </p>
 
 #### 🧠 Concepts
-- Object-Oriented Programming (OOP)
-- Networking Fundamentals
-- Cloud Security Principles
-- Secure System Design
+
+* Python Programming
+* NumPy & Data Handling
+* SQL & Database Fundamentals
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistics for Data Science
+* Machine Learning Fundamentals
+* Networking Fundamentals
+* Object-Oriented Programming (OOP)
 
 ---
 
@@ -76,12 +91,24 @@
   <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </p>
 
-- Windows Server  
-- phpMyAdmin  
-- Cisco Packet Tracer  
-- Google Colab  
+- Windows Server
+- phpMyAdmin
+- Cisco Packet Tracer
+- Google Colab
+- Jupyter Notebook
+- Anaconda
+- Kaggle
+- Microsoft Excel
+- Power BI
+- MySQL Workbench
 - Notion (Knowledge Management)
 
 ---
@@ -90,8 +117,6 @@
 
 - 🎨 2 Front-End Web Projects  
 - 🌐 2 Full-Stack Web Applications  
-- 🔄 Currently working on Graduation Project (Cloud / Security Related)
-
 ---
 
-<h3 align="center">⚡ Securing the Cloud, One Layer at a Time ⚡</h3>
+<h3 align="center">⚡ Turning Data into Insights, One Model at a Time ⚡</h3>
