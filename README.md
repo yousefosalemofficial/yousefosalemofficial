@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yousef-salem.yousef-salem">
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yousef+O.+Soliman;Data+Science+Engineer&center=true&size=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Yousef+O.+Soliman;Data+Science+Engineer&center=true&size=30">
 </h1>
 
 <h3 align="center">📊 Data Science Engineer | Computer Science Student 🎓 | Machine Learning & AI Enthusiast 🤖 | Python | SQL | Data Analysis | Data Visualization | Building Data-Driven Solutions</h3>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://www.facebook.com/share/18AaTBEzXB/" target="_blank">
+  <a href="https://www.facebook.com/yousef.o.soliman.official?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   
